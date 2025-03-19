@@ -1,0 +1,15 @@
+{
+    "name": "gabrielvendor/e2e-tasks",
+    "autoload": {
+        "psr-4": {
+            "Gabrielvendor\\E2eTasks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel CHANGRENIER",
+            "email": "gabriel.changrenier@efrei.net"
+        }
+    ],
+    "require": {}
+}
